@@ -1,0 +1,4569 @@
+[
+  {
+    "id": "85814bde-a337-4858-a4f6-c71ec87b6111",
+    "title": "Police Force Strength",
+    "keywords": [
+      "police",
+      "uk mayors",
+      "police civilian staff",
+      "the metropolitan police force",
+      "mopac data",
+      "figures fte",
+      "headcount information",
+      "policing workforce"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "46e0348f-1540-410a-9b7f-b0f745807ba8",
+    "title": "Modelled estimates of recent births",
+    "keywords": [
+      "gla demography",
+      "estimating births",
+      "births",
+      "latency nhs",
+      "gp registration",
+      "patient count",
+      "technical",
+      "nowcast-birth"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "59bfbe06-0e4e-4c72-a02a-4e923fc8eec9",
+    "title": "Patients registered at a GP practice",
+    "keywords": [
+      "counts patients",
+      "health services",
+      "patients",
+      "sex age",
+      "uk data",
+      "registered gp",
+      "published quarterly",
+      "other months"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "2f66a9ab-ed87-4600-90e5-09a172173fb9",
+    "title": "Waste Contracts Register",
+    "keywords": [
+      "waste contract",
+      "contracts",
+      "expiry dates",
+      "waste authorities",
+      "london waste authorities",
+      "new waste contracts",
+      "regulations ppr",
+      "london municipal"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "b9148e05-b2d7-4c2c-a4b9-252134ab9f69",
+    "title": "Internal migration flows - school age children visualisation",
+    "keywords": [
+      "migration flows",
+      "children aged",
+      "children",
+      "migration",
+      "internal migration",
+      "model_detailed_migration_flows",
+      "populationestimate",
+      "15 london"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "75637c21-3f08-46e8-b871-bbea98dc278f",
+    "title": "London Public Realm Trees",
+    "keywords": [
+      "trees london",
+      "trees",
+      "park data",
+      "estimated million",
+      "forest partnership",
+      "quintain manages",
+      "management",
+      "highways"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "b8492829-9fe6-464b-b754-8d640c56259f",
+    "title": "London Health Inequalities Strategy Indicators",
+    "keywords": [
+      "children age",
+      "mayors health",
+      "health inequalities",
+      "health",
+      "children",
+      "healthy",
+      "mortality",
+      "london progress"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "b99d48da-1c43-4323-bde4-32e1f1af281e",
+    "title": "GLA Adult Skills Fund",
+    "keywords": [
+      "education budget",
+      "education",
+      "state for education",
+      "skills data",
+      "london adult",
+      "aeb data",
+      "enrolment previous",
+      "loan"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "75f7b64c-ef7e-4f45-9b03-6f194b6785b8",
+    "title": "GLA Code of Statistics",
+    "keywords": [
+      "authority code",
+      "gla group",
+      "uk statistics",
+      "voluntary application",
+      "publication timetable",
+      "dates",
+      "publication",
+      "application"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "263d2c21-9be2-4603-a75d-8027d914601c",
+    "title": "London's Economy Today",
+    "keywords": [
+      "housing indicators",
+      "unemployment rate",
+      "population",
+      "the unemployment rate",
+      "london economy",
+      "date information",
+      "seeking available",
+      "average"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "ede3d491-bf99-4245-92c1-7ee6ec5a3b8b",
+    "title": "Equalities, Diversity and Inclusion Measures",
+    "keywords": [
+      "19 pandemic",
+      "supports mayor",
+      "equalities london",
+      "resilience dashboard",
+      "measures updated",
+      "inclusion",
+      "social",
+      "monitor"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "7901b7b4-c7c2-4357-8b91-192cbdbe494f",
+    "title": "GLA Grants data",
+    "keywords": [
+      "gla grants",
+      "dataset uses",
+      "site grantnav",
+      "accessed 360",
+      "commonality grant",
+      "potential",
+      "grantnav",
+      "the past"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "eb971735-7df4-4699-aac1-ef516490cc4a",
+    "title": "Creative Enterprise Zones (CEZ) data repository",
+    "keywords": [
+      "employment survey",
+      "sic codes",
+      "uk business",
+      "cez areas",
+      "counts export",
+      "a graph",
+      "broad",
+      "business"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "fb203828-bde5-4a50-96d9-8adfb4960631",
+    "title": "Modelled population backseries",
+    "keywords": [
+      "uk demography",
+      "internal migration",
+      "demography",
+      "population",
+      "populationestimate",
+      "change census",
+      "use gla",
+      "official"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "55c81b8d-b5fb-40d6-9ca5-16946d2aa2c7",
+    "title": "Age specific fertility rates",
+    "keywords": [
+      "population backseries",
+      "population",
+      "data london",
+      "fertility rates",
+      "wales rates",
+      "estimated age",
+      "region",
+      "livebirth"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "4f0e307c-531c-48fa-8911-c618e764e61c",
+    "title": "In-work poverty in London",
+    "keywords": [
+      "educational",
+      "employment",
+      "no educational qualifications",
+      "poverty london",
+      "work poverty",
+      "credit single",
+      "2023 provides",
+      "working families"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "0c308d67-13b0-4c5d-801e-fb6875b78a58",
+    "title": "London's diverse population ",
+    "keywords": [
+      "london population",
+      "population",
+      "ethnicity socio",
+      "equality act",
+      "protected characteristic",
+      "present estimates",
+      "disability",
+      "broad age group"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "361581b4-8e84-4357-a4f4-7a1271ad8ace",
+    "title": "GLA pay gap data",
+    "keywords": [
+      "gap reports",
+      "data tables",
+      "gla measures",
+      "london gov",
+      "salaries expenses",
+      "disability",
+      "-data",
+      "money"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "26662e3d-c8a5-4824-954e-9d057e583931",
+    "title": "London Tourism Forecasts",
+    "keywords": [
+      "annual basis",
+      "gla economics",
+      "2032 estimates",
+      "london domestic",
+      "tourists forecasts",
+      "night",
+      "medium",
+      "methodology"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "e7051feb-63fa-4a67-811b-1fa3b79cb5cb",
+    "title": "Long-term sickness and the London labour market",
+    "keywords": [
+      "health",
+      "working age",
+      "london pandemic",
+      "gla economics",
+      "employed londoners",
+      "sickness working",
+      "absence",
+      "term sickness"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "64e7679d-6383-4abe-88b1-0f8db4e9f96a",
+    "title": "Public Perceptions of the Police",
+    "keywords": [
+      "community police",
+      "police",
+      "agree police",
+      "uk mopac",
+      "listen concerns",
+      "attitude survey",
+      "public perception",
+      "responses"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "d7947812-412d-4074-a46a-1ff3e18b73b1",
+    "title": "London Energy and Greenhouse Gas Inventory (LEGGI)",
+    "keywords": [
+      "inventory leggi",
+      "2020 statistics",
+      "land use",
+      "coronavirus covid",
+      "london emissions",
+      "(leggi",
+      "emissions",
+      "long"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "014dd3e0-ad51-4987-91d3-505707bf8c39",
+    "title": "Skills Bootcamps for Londoners",
+    "keywords": [
+      "wave data",
+      "bootcamps londoners",
+      "guidance entering",
+      "employability skills",
+      "the first wave",
+      "technical",
+      "skill",
+      "career"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "dd660706-ba22-49dd-b489-44752d69e978",
+    "title": "Cultural Infrastructure Map 2024",
+    "keywords": [
+      "gla liable",
+      "cim index",
+      "data london",
+      "infrastructure audits",
+      "cultural infrastructure",
+      "one place",
+      "data sets",
+      "cultural"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "18089fe1-5be7-4773-9a09-b1207ed4dd97",
+    "title": "Survey of Londoners 2021-22",
+    "keywords": [
+      "educational",
+      "covid 19",
+      "social outcomes",
+      "london survey",
+      "gla undertook",
+      "findings time",
+      "another survey",
+      "that point"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "0cbfb9ca-2ecd-4ad5-beae-b099c5e27dff",
+    "title": "Births by Mother's Country of Birth in London",
+    "keywords": [
+      "gla demography",
+      "live births",
+      "births",
+      "ons publishes",
+      "wales parents",
+      "london changing",
+      "repository",
+      "mother"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "a40c80df-b894-4c5b-971b-e8889065139b",
+    "title": "Referral planning applications between 2011-2022",
+    "keywords": [
+      "storeys mayoral",
+      "affordable housing provision",
+      "data provided",
+      "mayor january",
+      "number residential",
+      "planningsupport london",
+      "31 december",
+      "application"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "ae77de02-e563-462d-8ac9-2443ed6c521d",
+    "title": "Borough Council Election Results 2022",
+    "keywords": [
+      "overview trends",
+      "borough council",
+      "maps tables",
+      "london electorate",
+      "election reports",
+      "a commentary",
+      "every aspect",
+      "overview"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "02a87f2c-bed3-474b-91b0-0dc4e4163cf9",
+    "title": "Housing-led population projections",
+    "keywords": [
+      "gla population",
+      "future housing",
+      "population",
+      "housing",
+      "fertility assumptions",
+      "land availability",
+      "london projections",
+      "methodology"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "445ea1ca-3659-4900-b3de-e7c6038226bd",
+    "title": "Trend-based population projections",
+    "keywords": [
+      "future housing",
+      "population projections",
+      "population",
+      "set trend",
+      "data london",
+      "additional documentation",
+      "a minor update",
+      "projections"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "de85dfdd-0609-49e4-995c-94fdb301464d",
+    "title": "London's sectors - More Detailed Jobs",
+    "keywords": [
+      "jobs dataset",
+      "jobs london",
+      "estimates employee",
+      "industry classification",
+      "blog",
+      "employee jobs",
+      ")\n\nestimates",
+      "post"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "b0a67b98-b91a-4f0d-b9d0-9e5ec9f7b898",
+    "title": "London’s consumption based greenhouse gas emissions ",
+    "keywords": [
+      "government datasets",
+      "emissions stabilised",
+      "emissions london",
+      "london consumption",
+      "bill",
+      "aviation",
+      "emissions",
+      "the clothes"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "564fd310-cf2a-40fa-a500-c595b0f0362a",
+    "title": "Borough by sector employee jobs",
+    "keywords": [
+      "csv datafile",
+      "jobs estimates",
+      "borough",
+      "jobs london",
+      "latest workbook",
+      "latest",
+      "the period",
+      "methodology"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "b306c7d9-f52a-44bf-b280-b6decc02c92f",
+    "title": "Climate & Equalities Tool",
+    "keywords": [
+      "assessment eqia",
+      "equality act",
+      "tool supports",
+      "policies programmes",
+      "climate equalities",
+      "outcomes",
+      "projects",
+      "programmes"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "03140c41-be00-40cd-94ee-b60bbcc54172",
+    "title": "Ethnicity Pay Gaps in London",
+    "keywords": [
+      "dataset greater",
+      "gla group",
+      "ethnicity pay",
+      "gap difference",
+      "employees london",
+      "asian",
+      "labour",
+      "white employees"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "57ebbc56-5497-41e9-a7d3-b9f66cd2dc93",
+    "title": "Disability Pay Gaps in London",
+    "keywords": [
+      "gap estimates",
+      "disability pay",
+      "gla group",
+      "employees london",
+      "economic fairness",
+      "disabled",
+      "disability",
+      "pay gap"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "f4c7c9e9-5d9b-4bb0-8409-402f9d6acf69",
+    "title": "London Plan AMR 19 tables and data",
+    "keywords": [
+      "plan monitoring",
+      "data london",
+      "london plan",
+      "excel spreadsheets",
+      "spreadsheet",
+      "default",
+      "plan",
+      "page"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "756edc41-eb65-4227-a8bd-ffdb27abfb2e",
+    "title": "MOPAC Grants awarded ",
+    "keywords": [
+      "mopac",
+      "grant",
+      "executed mopac",
+      "grant agreements",
+      "agreements executed"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "dab467ed-0868-4d16-b2a2-ac880b423384",
+    "title": "Gender Pay Gaps in London",
+    "keywords": [
+      "gla group",
+      "gap difference",
+      "gender pay",
+      "employers london",
+      "quartiles dataset",
+      "a report",
+      "inclusion",
+      "large"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "deb43849-7a06-4f45-a8ce-c8ef63d002ec",
+    "title": "Properties Vulnerable to Heat Impacts in London",
+    "keywords": [
+      "environment climate",
+      "schools",
+      "report london",
+      "vulnerable heat",
+      "arup maps",
+      "residential properties",
+      "programmes",
+      "study"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "275dbfb2-691b-4a35-8af6-caf3cba3fad2",
+    "title": "Children in low income families",
+    "keywords": [
+      "income housing",
+      "children number",
+      "children",
+      "estimates wards",
+      "dwp statistical",
+      "relative low",
+      "further detail",
+      "composition"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "146392df-b051-42ad-b8ec-454e440f0f8b",
+    "title": "London Schools Atlas",
+    "keywords": [
+      "schools atlas",
+      "london schools",
+      "schools",
+      "london output",
+      "boroughs use",
+      "potential",
+      "each file",
+      "location"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "85b71fc6-1fe3-4588-90a6-3455330c1ef1",
+    "title": "Fuel Poverty",
+    "keywords": [
+      "housing survey",
+      "households fuel",
+      "percentage",
+      "poverty measured",
+      "this dataset",
+      "household",
+      "fairness",
+      "survey"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "dfb6be36-bfdc-4afd-a3d3-34c1604066b8",
+    "title": "HBAI Poverty in London",
+    "keywords": [
+      "dwp households",
+      "data london",
+      "uk economic",
+      "gla intelligence",
+      "official poverty",
+      "official",
+      "development",
+      "poverty"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "7927fd53-aa20-4191-b9b7-2b5503d223a3",
+    "title": "London at night: research and analysis",
+    "keywords": [
+      "time workforce",
+      "ons labour",
+      "night prevalence",
+      "city intelligence",
+      "experiences londoners",
+      "night",
+      "worker",
+      "latest"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "cf3bac08-9edd-4ca6-9f2c-0fc6c16a26cc",
+    "title": "Annual birth estimates ",
+    "keywords": [
+      "moved",
+      "uk dataset",
+      "dataset birth",
+      "estimates https",
+      "london gov",
+      "https data",
+      "this dataset",
+      "birth estimates"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "9446d775-19b9-47d8-afa4-a1f03bcebf99",
+    "title": "Royal Docks Grant Data",
+    "keywords": [
+      "royal docks",
+      "cohesive transformation",
+      "regeneration projects",
+      "team established",
+      "london enterprise",
+      "project",
+      "mixed",
+      "the team"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "1edc3fa8-ce43-488a-9d6b-8dba432a53ea",
+    "title": "London Long Term Labour Market  Projections",
+    "keywords": [
+      "gla employment",
+      "employment projections",
+      "employment",
+      "xlsx sector",
+      "produces long",
+      "london projections",
+      "projections",
+      "labour"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "4c6f311e-29b8-431d-b374-df151f8b2ce7",
+    "title": "COVID-19 Restrictions Timeseries",
+    "keywords": [
+      "prime ministers",
+      "pub closures",
+      "london date",
+      "restrictions policies",
+      "curfew hospitality",
+      "policies",
+      "data timeseries",
+      "search"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "22cde7d7-9f6c-47e6-89d2-3118a3aed483",
+    "title": "London Wellbeing and Sustainability Measure",
+    "keywords": [
+      "2021 manifesto",
+      "explore data",
+      "london wellbeing",
+      "wealth comprehensive",
+      "sustainability measure",
+      "https",
+      "success",
+      "spreadsheet"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "a0381559-31a4-4a24-a713-ee4e465ecb87",
+    "title": "Ad hoc housing analysis",
+    "keywords": [
+      "housing analysis",
+      "results ad",
+      "mayoral press",
+      "london authority",
+      "including figures",
+      "mayoral",
+      "page",
+      "this page"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "cd9bbf14-d3de-4227-8924-1f002628cd6a",
+    "title": "Financial Conduct Authority data on mortgage type and fixed rate end date by region, as at end 2022 ",
+    "keywords": [
+      "rate number",
+      "data psd007",
+      "gla fca",
+      "regulated mortgages",
+      "interest",
+      "region",
+      "mortgage",
+      "incentive rate"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "7bd4e05f-aeba-47a4-ae8f-49d6ea502a9c",
+    "title": "London Green and Blue Cover",
+    "keywords": [
+      "aerial imagery",
+      "report web",
+      "london green",
+      "cover estimate",
+      "ukmap data",
+      "feature",
+      "the extent",
+      "verisk"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "0282355b-39e2-4ace-8073-62e806dc9ff3",
+    "title": "GLA Affordable Housing Programme Outturn",
+    "keywords": [
+      "housing statistics",
+      "affordable housing",
+      "housing delivery",
+      "funded",
+      "programmes gla",
+      "reporting publish",
+      "london affordable",
+      "the rest"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "2406874d-a960-49d0-bbd5-3ea57c4a9b85",
+    "title": "Coronavirus (COVID-19) Deaths",
+    "keywords": [
+      "hospitals data",
+      "hospitals",
+      "deaths updated",
+      "reporting covid",
+      "19 available",
+      "uk statistics",
+      "vaccination",
+      "covid"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "b9148b7d-f61b-4f97-a9b8-72fa17148bdc",
+    "title": "Comparison of available population estimates",
+    "keywords": [
+      "gla demography",
+      "population backseries",
+      "births",
+      "estimates 2021",
+      "data london",
+      "packages",
+      "input",
+      "their own areas"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "6a443e4e-e219-42f4-9c65-e819456f0b74",
+    "title": "Coronavirus (COVID-19) Weekly Update",
+    "keywords": [
+      "data published",
+      "statistics nhs",
+      "19 deaths",
+      "uk coronavirus",
+      "uk updated",
+      "22 march",
+      "-death",
+      "covid 19"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "451e30d6-39fc-41a0-a90f-0c82e77704e6",
+    "title": "London Business Survey 2022",
+    "keywords": [
+      "business survey",
+      "london use",
+      "adhoc data",
+      "published datasets",
+      "national statistics",
+      "part",
+      "some cases",
+      "survey"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "e6ecfbf1-d042-45f1-888b-119c9d35d0f9",
+    "title": "Google Mobility by Borough",
+    "keywords": [
+      "google stopped",
+      "london affected",
+      "location data",
+      "smartphones compares",
+      "covid19 mobility",
+      "android",
+      "user",
+      "change"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "95cf4a50-c35a-4f47-9001-f957f2a14709",
+    "title": "Ealing residential pipeline",
+    "keywords": [
+      "ealing 31st",
+      "pipeline london",
+      "data extracted",
+      "residential",
+      "ealing",
+      "31st march",
+      "checking",
+      "london borough"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "731b2c53-5d9c-449f-89a2-c93f842615ad",
+    "title": "GLA comments on DLUHC Levelling Up metrics",
+    "keywords": [
+      "gla conducted",
+      "policy development",
+      "poverty alleviation",
+      "levelling london",
+      "metrics accompanying",
+      "development",
+      "levelling",
+      "poverty"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "7ce4d1ae-2849-4335-875e-9bdd854b712d",
+    "title": "London Plan AMR 17 tables and data",
+    "keywords": [
+      "report amr",
+      "indicators kpis",
+      "london plan",
+      "annual monitoring",
+      "the period",
+      "implementing",
+      "objective",
+      "31st march"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "60e5834b-68aa-48d7-a8c5-7ee4781bde05",
+    "title": "Coronavirus (COVID-19) Mobility Report",
+    "keywords": [
+      "transport",
+      "lockdown rules",
+      "the transport measures",
+      "public transport",
+      "work high",
+      "public transport usage",
+      "data covid",
+      "mobility report"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "ff82002f-28e8-48fd-a16f-ec30072c951b",
+    "title": "Survey of Londoners 2018-19",
+    "keywords": [
+      "educational",
+      "purposes gla",
+      "london survey",
+      "national data",
+      "supporting demographic",
+      "policy programmes",
+      "uk data",
+      "national"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "17e5ed7e-bc16-4ff3-a213-6a13812598b9",
+    "title": "The rising cost of living and its effects on Londoners",
+    "keywords": [
+      "rising poverty",
+      "cost living",
+      "behaviour charts",
+      "facing londoners",
+      "public attitudes",
+      "manual",
+      "chart",
+      "poverty"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "08dd7534-f45e-45c4-8757-e8808c95f584",
+    "title": "Inequalities and Environmental Action",
+    "keywords": [
+      "environmental issues",
+      "engaging londoners",
+      "coronavirus londons",
+      "boroughs selected",
+      "income communities",
+      "project",
+      "coronavirus",
+      "challenge"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "8347c0d8-1322-4057-8ebd-c4b972f2808f",
+    "title": "Housing mobility",
+    "keywords": [
+      "moves scheme",
+      "the housing moves scheme",
+      "number lets",
+      "seaside country",
+      "homes scheme",
+      "seaside",
+      "application",
+      "the year"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "75bec340-e428-42be-a260-58389dddc19f",
+    "title": "London Civic Strength Index",
+    "keywords": [
+      "civic strength",
+      "index developed",
+      "london boroughs",
+      "strengths communities",
+      "neighbourhood scores",
+      "the strengths",
+      "discussions",
+      "borough"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "849ccd3d-6f22-4121-911f-fb74b8eda45d",
+    "title": "GLA Population Yield Calculator",
+    "keywords": [
+      "age children",
+      "new housing",
+      "population yield",
+      "children",
+      "population",
+      "_the gla",
+      "development calculator",
+      "calculator"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "d6e2afb2-619b-4938-a95b-225d282975b7",
+    "title": "Social Cost Benefit Analysis of the no recourse to public funds (NRPF) policy in London",
+    "keywords": [
+      "scba removal",
+      "social cost",
+      "nrpf conditions",
+      "migrants access",
+      "benefit analysis",
+      "(lse",
+      "money terms",
+      "(scba"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "1be776eb-9d80-49e2-9c5c-ce7021bf88a0",
+    "title": "Datahub prior approvals analysis December 2021",
+    "keywords": [
+      "details prior",
+      "datahub project",
+      "approvals london",
+      "spreadsheet includes",
+      "analysis designed",
+      "spreadsheet",
+      "application",
+      "the time"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "1b274a66-b4bb-490b-ae35-ea369a460c71",
+    "title": "Annual births by age of mother",
+    "keywords": [
+      "livebirths adhocs",
+      "higher geographies",
+      "mother",
+      "broad age group",
+      "broad",
+      "high",
+      "https www",
+      "live"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "98b12db5-aeb5-44ca-8b91-cc6c1f367174",
+    "title": "Public attitudes and behaviour – GLA poll results February 2022 Retrofitting ",
+    "keywords": [
+      "adults aged",
+      "adults",
+      "yougov plc",
+      "all london adults",
+      "survey londoners",
+      "fieldwork undertaken",
+      "attitudes retrofitting",
+      "the survey"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "d6365d4b-44a8-41e4-8e38-559a542e1c3d",
+    "title": "Identifying Green Occupations in London",
+    "keywords": [
+      "gla economics",
+      "mapping uk",
+      "occupational greening",
+      "workbook includes",
+      "skills qualification",
+      "a degree",
+      "working paper",
+      "subject"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "84e97ae7-4e36-4f11-92d4-ffcf7e352d9e",
+    "title": "Ethnic group population projections",
+    "keywords": [
+      "population",
+      "london future",
+      "set gla",
+      "ethnic groups",
+      "consistent 2016",
+      "projections produced",
+      "projection",
+      "projections"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "e532258e-4c2f-4f56-873a-31b830e7e131",
+    "title": "Pay ratio of highest earner to median earner",
+    "keywords": [
+      "fairness labour",
+      "median earner",
+      "office for policing and crime",
+      "earnings annual",
+      "organisation gla",
+      "comparison london",
+      "high",
+      "median earnings"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "af780908-1462-4300-bfc9-5eaab2ef1b52",
+    "title": "ONS Mid-Year Population Estimates - Custom Age Tables",
+    "keywords": [
+      "age population",
+      "population",
+      "ireland data",
+      "range males",
+      "excel age",
+      "census estimates",
+      "the top",
+      "the single year"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "16de8822-cd70-479b-8249-2e7a26dca167",
+    "title": "Young Londoners Fund Projects",
+    "keywords": [
+      "help children",
+      "children",
+      "young londoners",
+      "grants types",
+      "funded mayor",
+      "information projects",
+      "projects",
+      "sport"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "8118b70e-a444-45a5-81d7-e2f07f0859fd",
+    "title": "Researching Community Collecting During COVID-19   ",
+    "keywords": [
+      "london community",
+      "involve collecting",
+      "experiences covid",
+      "targeted missions",
+      "organisations analyse",
+      "projects",
+      "boroughs",
+      "community"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "a713a4be-0891-42f0-b5d4-3bcb7e7525a0",
+    "title": "GLA Population Projections - Custom Age Tables",
+    "keywords": [
+      "gla demography",
+      "population",
+      "range males",
+      "age tables",
+      "population projections",
+      "demographic projections",
+      "spreadsheet return",
+      "package"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "85600341-4d42-4c86-a702-715a56106cc1",
+    "title": "London Plan AMR 16 tables and data",
+    "keywords": [
+      "housing data",
+      "housing",
+      "amr provides",
+      "indicators kpis",
+      "uk planning",
+      "monitoring london",
+      "the kpis",
+      "the period"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "8e29cba9-5aae-43bf-8caa-bafd48873c60",
+    "title": "Social Integration Headline Measures",
+    "keywords": [
+      "needed",
+      "london measures",
+      "council surveys",
+      "social integration",
+      "part",
+      "the survey",
+      "high",
+      "large"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "42b0b0d7-eb92-435a-8f02-9dd13e9427f9",
+    "title": "London Job Posting Analytics",
+    "keywords": [
+      "total unique",
+      "emsi data",
+      "drivers london",
+      "jobs postings",
+      "occupational classification",
+      "worker",
+      "the name",
+      "high"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "17e9554a-5523-423f-90ae-292fb0c56884",
+    "title": "Workforce Data Equality - London Benchmarking Tool",
+    "keywords": [
+      "uk workforce",
+      "london’s population",
+      "data london",
+      "equalities data",
+      "diversity",
+      "benchmarking workforce",
+      "an easy way",
+      "workforce data"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "3f741e00-111f-4134-b04f-8b103f78bbe7",
+    "title": "Planning permissions on the London Development Database (LDD)",
+    "keywords": [
+      "longer updated",
+      "london ldd",
+      "space spreadsheet",
+      "existing dwellings",
+      "planning permissions",
+      "gain",
+      "spreadsheet",
+      "either a hotel"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "b3bdad9b-b5a7-43b1-ae98-09b641abf868",
+    "title": "Metropolitan Police Notifiable Offences by Time of Day",
+    "keywords": [
+      "the metropolitan police",
+      "alcohol related",
+      "notifiable",
+      "night time",
+      "offences recorded",
+      "night",
+      "this dataset",
+      "observatory"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "932dfeb6-25ff-445e-8df4-091f937962f1",
+    "title": "Tree Canopy Cover Prioritisation Tool",
+    "keywords": [
+      "including population",
+      "cover map",
+      "canopy london",
+      "ward scale",
+      "prioritised tree",
+      "potential",
+      "a tool",
+      "which locations"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "abe232db-4aa8-404b-b34e-e7ce30f2670d",
+    "title": "Indicative residential capacity calculators",
+    "keywords": [
+      "indicative",
+      "londoners draft",
+      "residential capacity",
+      "calculators used",
+      "capacity calculators",
+      "capacity",
+      "calculator",
+      "consultation"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "865da4aa-07d9-46b5-8db1-30dee636e390",
+    "title": "Floorspace of selected night time economy establishments by town centre",
+    "keywords": [
+      "centre data",
+      "boundaries used",
+      "night time",
+      "floorspace selected",
+      "establishments town",
+      "town centre",
+      "night",
+      "centre"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "070939f1-1374-4b5c-80f3-b3e1ede0db76",
+    "title": "Pub Closures",
+    "keywords": [
+      "london period",
+      "closures london",
+      "click night",
+      "time observatory",
+      "pub",
+      "night",
+      "closure",
+      "this dataset"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "c8ef85c6-5327-43d0-9810-5544a6623179",
+    "title": "London Visitor Perceptions",
+    "keywords": [
+      "greater london",
+      "ratings dataset",
+      "night time",
+      "visitor expectation",
+      "observatory click",
+      "night",
+      "this dataset",
+      "experience"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "829b47cf-a563-4ae4-a2bd-02379ddc9bc4",
+    "title": "Migration indicators",
+    "keywords": [
+      "2021 population",
+      "migration england",
+      "migration",
+      "estimates uk",
+      "june 2021\n\npopulation",
+      "ons dwp",
+      "insurance numbers",
+      "the sources"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "89584668-7ed9-4db6-b8f1-d3cb9e320c3c",
+    "title": "Pupil home to school distance for state funded schools by Borough and phase  ",
+    "keywords": [
+      "london schools",
+      "funding free",
+      "npd data",
+      "percentage pupils",
+      "walking distance",
+      "pupils",
+      "taken",
+      "distance"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "95049930-e5a0-4279-b3ba-a649ac1ff1b5",
+    "title": "COVID-19 Deaths Mapping Tool",
+    "keywords": [
+      "related mortality",
+      "mortality",
+      "maps covid",
+      "age ethnicity",
+      "areas london",
+      "occupational data",
+      "factors",
+      "covid"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "65028664-5328-4283-a6a5-ceab3d1c9930",
+    "title": "Excel Mapping Template for London Boroughs and Wards",
+    "keywords": [
+      "borough maps",
+      "excel templates",
+      "using ward",
+      "categorical data",
+      "squares cartogram",
+      "prompt",
+      "any version",
+      "the top"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "91a457cc-2eb4-4b0b-a433-77f2173cf730",
+    "title": "London Plan AMR 15 tables and data",
+    "keywords": [
+      "housing data",
+      "housing",
+      "uk planning",
+      "monitor amr",
+      "indicators kpis",
+      "monitoring london",
+      "the kpis",
+      "the period"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "e26ca1c7-ec79-4d52-a03c-39934b4362db",
+    "title": "Employment-led population projections",
+    "keywords": [
+      "uk demography",
+      "population projections",
+      "consistent employment",
+      "demography",
+      "population",
+      "gla demography",
+      "data london",
+      "produced gla"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "56c6ac27-0369-404e-8b97-db2617d7a293",
+    "title": "Age-specific fertility rates for London boroughs and borough groupings 2005-07",
+    "keywords": [
+      "resident population",
+      "smoothed age",
+      "fertility rates",
+      "ranges age",
+      "asfr",
+      "rate",
+      "mother",
+      "women"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "996a1ba7-7e19-4270-9409-4736ad118a14",
+    "title": "Cross border mobility of primary school age children in London",
+    "keywords": [
+      "border mobility",
+      "dfe estimates",
+      "school update",
+      "com londondatastore",
+      "pupils",
+      "update 04",
+      "borough",
+      "border"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "fe989be7-b0f5-49d0-8a63-67cb1f990060",
+    "title": "Cross border mobility of secondary school age children",
+    "keywords": [
+      "education dfe",
+      "net balance",
+      "addendum report",
+      "balance",
+      "an addendum",
+      "borough",
+      "border",
+      "addendum"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "799428e9-4956-4f66-9893-e2c91a6f9995",
+    "title": "Breathe London AQMesh pods",
+    "keywords": [
+      "air quality",
+      "sensors pods",
+      "breathe london",
+      "measure ozone",
+      "hour information",
+      "using",
+      "electrochemical",
+      "the top"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "f13cdab5-01cc-4a05-9ae7-9a6943c3f5d3",
+    "title": "London Ward Well-Being Scores",
+    "keywords": [
+      "population average",
+      "london wards",
+      "data range",
+      "weight indicator",
+      "wellbeing scores",
+      "the top",
+      "solid",
+      "boroughs"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "e86e81be-242c-493a-8902-147040c1188f",
+    "title": "Green Infrastructure Focus Map",
+    "keywords": [
+      "useful needs",
+      "data gla",
+      "help london",
+      "green infrastructure",
+      "income deprivation",
+      "other issues",
+      "responsible",
+      "what kind"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "c1dc79c4-abaa-47c0-ba3b-e616ff431201",
+    "title": "Strategic Housing Land Availability Assessment (SHLAA) 2017 - Approvals & Allocations",
+    "keywords": [
+      "housing targets",
+      "housing",
+      "aggregate housing capacity",
+      "local plan",
+      "shlaa determine",
+      "approval allocation",
+      "technical",
+      "potential"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "6f91318d-cb08-45d7-99e8-3102c5340ad0",
+    "title": "The 2014 Internet User Classification (IUC), LSOA",
+    "keywords": [
+      "internet use",
+      "super groups",
+      "characteristics target",
+      "census infrastructure",
+      "uk geodemographics",
+      "project",
+      "e-fringe  \n4b",
+      "cdrc"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "32cf4187-090e-4c7b-809e-95a1ff0e0e83",
+    "title": "GLA Claimant Count Model Output",
+    "keywords": [
+      "jsa claimants",
+      "output gla",
+      "count rates",
+      "the whole population",
+      "universal credit",
+      "job seekers",
+      "gla projections",
+      "methodology"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "fb3108b5-3d4a-4047-84fc-02671cc73750",
+    "title": "Focus on London - Labour Market",
+    "keywords": [
+      "population important",
+      "employment rates",
+      "london labour",
+      "average report",
+      "headline findings",
+      "average",
+      "20 per cent",
+      "probability"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "9325b2b6-68ab-4429-92c5-33854d7c66ef",
+    "title": "Focus on London - Poverty",
+    "keywords": [
+      "children",
+      "london poverty",
+      "costs living",
+      "capital report",
+      "types families",
+      "contrasts considered",
+      "household",
+      "the bar chart"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "0a9d2e10-b1b6-4469-a889-5813ba734c6c",
+    "title": "Focus on London - Income and Spending",
+    "keywords": [
+      "london income",
+      "spending report",
+      "households home",
+      "compared regions",
+      "gla intelligence",
+      "bill",
+      "this chart",
+      "the costs"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "5d0be550-1a26-4cb3-860f-d6207a259db2",
+    "title": "Focus on London - Skills",
+    "keywords": [
+      "trends gcse",
+      "skills pdf",
+      "oecd pisa",
+      "focus",
+      "qualifications london",
+      "oecd",
+      "boroughs",
+      "**facts"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "1cbb781e-4f9b-47ec-96c3-97b801a15e30",
+    "title": "Benefit Cap in London",
+    "keywords": [
+      "children payments",
+      "benefit cap",
+      "nearly half",
+      "london households",
+      "britain received",
+      "all households",
+      "limit",
+      "nearly"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "1e12c403-8ce0-4d02-843e-e499a58fbf0e",
+    "title": "The Economics of London's Housing Market",
+    "keywords": [
+      "housing matters",
+      "changes rates",
+      "house prices",
+      "gain understanding",
+      "london affordability",
+      "pace",
+      "affordability",
+      "earnings"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "17dd3eb9-780f-423f-b85e-44b400237859",
+    "title": "London's Zero Carbon Energy Resource - Secondary Heat",
+    "keywords": [
+      "uk environment",
+      "environment",
+      "areas msoa",
+      "heat sources",
+      "data available",
+      "london secondary",
+      "technical",
+      "potential"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "fa09904c-5134-43ea-b7dc-6e55c4f0061f",
+    "title": "Tourism Spend Estimates",
+    "keywords": [
+      "spend",
+      "borough level",
+      "visitor estimates",
+      "lda experimental",
+      "the scale",
+      "indicitive",
+      "day visitor",
+      "visitor"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "a8285a58-626b-4ff1-9e91-6ce544d01414",
+    "title": "Focus on London 2000-2009",
+    "keywords": [
+      "fol report",
+      "data management",
+      "dmag partnership",
+      "statistics london",
+      "affecting capital",
+      "broad",
+      "london2000.pdf",
+      "a wide range"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "843aa28f-8c50-463b-8234-689791460ce0",
+    "title": "London Labour Market, Skills and Employment Indicators",
+    "keywords": [
+      "employment rate",
+      "unemployment boroughs",
+      "educational",
+      "employment",
+      "uk statistics",
+      "2015 available",
+      "indicators spreadsheet",
+      "3  \nproportion"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "085329b8-ad8e-4498-81e9-ee5a2037118f",
+    "title": "Cumulative Impact Assessment of Welfare Reform in London",
+    "keywords": [
+      "changes tax",
+      "landman economics",
+      "simulation modelling",
+      "households london",
+      "national",
+      "the impact",
+      "personal taxes",
+      "simulation"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "f9ecedaa-ccab-47a5-a2aa-487e06442a04",
+    "title": "Equality, Diversity and Inclusion Evidence Base for London",
+    "keywords": [
+      "diverse population",
+      "mayor equality",
+      "gla group",
+      "barriers discrimination",
+      "inclusive london",
+      "facing groups",
+      "care leavers",
+      "sport"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "319ee80a-cec7-4c0b-8d4e-f321e18676c2",
+    "title": "Exploring how to measure social integration using digital and online data",
+    "keywords": [
+      "social media",
+      "data measuring",
+      "social integration",
+      "london identifies",
+      "download separately",
+      "part",
+      "the first step",
+      "potential"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "b5c08262-eb62-47e1-88bc-6e58513f9e2f",
+    "title": "Potential Impacts of Skills-based Immigration Policies in London",
+    "keywords": [
+      "brexit inform",
+      "gla economics",
+      "rqf3 skills",
+      "salary threshold",
+      "affected occupations",
+      "brexit",
+      "potential",
+      "each workbook"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "3f1b8152-c53f-4d14-a57a-942f21621605",
+    "title": "Busiest Airports by Passenger Traffic",
+    "keywords": [
+      "aci defined",
+      "data measured",
+      "atlanta world",
+      "passengers london",
+      "busiest airports",
+      "traffic",
+      "international",
+      "data-centre/"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "a137defa-2677-483d-9a04-0ab1cdb20836",
+    "title": "Social Integration by Borough",
+    "keywords": [
+      "crime mopac",
+      "policing crime",
+      "local area",
+      "londoners normally",
+      "integration headline",
+      "attitudes survey",
+      "address",
+      "social"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "37bf7b01-3cc4-49f6-aa0e-f3db598ae15f",
+    "title": "London input-output tables",
+    "keywords": [
+      "coverage aligns",
+      "industry data",
+      "sectors london",
+      "io tables",
+      "production consumption",
+      "https",
+      "application",
+      "their use"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "f3ad42c5-5b44-4932-ac95-f1c798fcdc5b",
+    "title": "London Datastore Catalogue",
+    "keywords": [
+      "live snapshot",
+      "metadata",
+      "catalogue files",
+      "datastore files",
+      "snapshot",
+      "entry",
+      "all metadata",
+      "content"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "fb750dab-58a1-426e-969a-2269568899b1",
+    "title": "Jobs held by EEA-born workers earning less than £30,000 per year",
+    "keywords": [
+      "uk employmentandlabourmarket",
+      "year estimates",
+      "percentages eea",
+      "london total",
+      "earningsandworkinghours adhocs",
+      "employee jobs",
+      "worker",
+      "workers"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "a642a8b8-11de-4bb2-ae2c-f83657c51c38",
+    "title": "Number of initiatives in borough's digital strategies for collaboration (data sharing/common standards)",
+    "keywords": [
+      "businesses data",
+      "council cios",
+      "digital strategy",
+      "projects programmes",
+      "delivery focused",
+      "programmes",
+      "silo",
+      "unit"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "d3bad31c-3e2b-4ea5-960f-163010511f45",
+    "title": "Plot Ratios in Industrial Developments April 2011 - February 2018",
+    "keywords": [
+      "plot ratios",
+      "plot",
+      "industrial developments",
+      "ratios industrial",
+      "development",
+      "february",
+      "industrial",
+      "ratio"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "1e919af4-5dd3-4cbe-8934-59d33eef6624",
+    "title": "Borough Council Election Results 2018",
+    "keywords": [
+      "results london",
+      "mayor presented",
+      "maps tables",
+      "school economics",
+      "elections boroughs",
+      "one place",
+      "details",
+      "http data"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "f8bf4105-04c2-4925-aa32-f57d8e57828f",
+    "title": "Communal Heating Consumer Survey Report",
+    "keywords": [
+      "residents housing",
+      "london heating",
+      "chp generally",
+      "developments london",
+      "a report",
+      "chp systems",
+      "concerns",
+      "aspects"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "88eaa962-37d1-4f07-a94f-6ea04a31e066",
+    "title": "London’s housing data from AMR13",
+    "keywords": [
+      "london housing",
+      "plan monitoring",
+      "permits loss",
+      "ldd records",
+      "pipeline",
+      "permission",
+      "gain",
+      "plan"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "6fd911cb-2a2e-47c6-91b3-edaf46906c79",
+    "title": "London Plan AMR14 Tables and Data",
+    "keywords": [
+      "assessment housing",
+      "housing",
+      "amr provides",
+      "indicators kpis",
+      "plan annual",
+      "london development",
+      "the kpis",
+      "plan"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "15cc5a88-fdca-4b88-a6d9-a62c0c4bee62",
+    "title": "Employability Performance Rating (EPR) Annual Ratings",
+    "keywords": [
+      "compliance kpa",
+      "grant diversity",
+      "epr annual",
+      "performance ratings",
+      "weighting indicators",
+      "project",
+      "document",
+      "briefing"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "f493a9de-65a1-4235-8987-16ea8cdfa28d",
+    "title": "Wider South East Long Term Labour Market Projections",
+    "keywords": [
+      "employment projections",
+      "london east",
+      "gla economics",
+      "20links xlsx",
+      "latest sector",
+      "south",
+      "east england",
+      "labour market"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "ce8a19fe-d59f-4395-bebe-3f73a3f782df",
+    "title": "GLA Group Land Assets",
+    "keywords": [
+      "uk housing",
+      "data showing",
+      "gla land",
+      "holdings development",
+      "property database",
+      "land asset",
+      "development",
+      "asset"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "3e6de533-4d12-4465-b1c0-e4b11d97e932",
+    "title": "London Atmospheric Emissions Inventory (LAEI) 2010 Air Quality Focus Areas",
+    "keywords": [
+      "london focus",
+      "s3 eu",
+      "laqm review",
+      "locations exceed",
+      "pollution trends",
+      "high",
+      "concerns",
+      "human"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "ad05a632-5a4b-480c-80f8-9ad0a580de02",
+    "title": "London Early Years Datastore for Childcare Sufficiency Assessments (CSA)",
+    "keywords": [
+      "enable boroughs",
+      "assessments csa",
+      "data london",
+      "educationprogramme london",
+      "educationprogramme",
+      "childcare sufficiency",
+      "ratings template",
+      "providers"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "13500843-2fb8-4bf1-ae24-fd3885173968",
+    "title": "Geographic Lookups for London",
+    "keywords": [
+      "range",
+      "files scale",
+      "areas london",
+      "geographic lookup",
+      "this dataset",
+      "lookup",
+      "different areas",
+      "area"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "5d64ef3a-69eb-4350-8fa1-7030d347a0cd",
+    "title": "Childcare demand projections",
+    "keywords": [
+      "presents london",
+      "definition used",
+      "gla economics",
+      "ofsted purposes",
+      "formal childcare",
+      "broad",
+      "all forms",
+      "definition"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "37e17f00-5464-43a4-96b4-bf31b254b0b3",
+    "title": "Projected Demand for School Places",
+    "keywords": [
+      "gla population",
+      "london demand",
+      "school places",
+      "projections update",
+      "these results",
+      "projections",
+      "the demand",
+      "overview"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "8797ab28-a43c-4d88-8c86-3d9aa80ca9f9",
+    "title": "Land Area and Population Density, Ward and Borough",
+    "keywords": [
+      "area population",
+      "population",
+      "gla estimate",
+      "ward data",
+      "water land",
+      "spreadsheet inland",
+      "account",
+      "spreadsheet"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "01994c16-26cf-4339-b830-c0b1d5b71938",
+    "title": "London Town Centre Health Check Analysis Report",
+    "keywords": [
+      "health check",
+      "town centres",
+      "gla publication",
+      "comprehensive database",
+      "centre",
+      "test",
+      "plan",
+      "publication"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "10fc0279-f448-4bd6-ba02-2e390c2a07fe",
+    "title": "Natural Capital Account for London",
+    "keywords": [
+      "natural capital",
+      "benefits london",
+      "economic value",
+      "account assesses",
+      "heritage lottery",
+      "account",
+      "natural",
+      "methodology"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "f67c5220-adc3-485f-904b-0e9dd1441a7d",
+    "title": "PM2.5 map and exposure data",
+    "keywords": [
+      "average pm2",
+      "output area",
+      "guidelines 2030",
+      "map annual",
+      "pollution london",
+      "greater london",
+      "concentration",
+      "potential"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "7ac317a8-1a6f-45c3-a6f5-e90d76639cf1",
+    "title": "Ordnance Survey Code-Point Open",
+    "keywords": [
+      "national health",
+      "os code",
+      "csv file",
+      "postcode units",
+      "london boroughs",
+      "greater london",
+      "address",
+      "adjoining"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "fc90c0cc-0844-4941-aa34-c33eb05e763c",
+    "title": "Low Carbon Generators",
+    "keywords": [
+      "operated london",
+      "gla csv",
+      "lfepa low",
+      "carbon generators",
+      "group properties",
+      "lfepa",
+      "details",
+      "depots"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "86802870-f6c9-4eda-860b-67289bc67099",
+    "title": "2016 Mid-Year Estimates",
+    "keywords": [
+      "year estimates",
+      "ons june",
+      "london boroughs",
+      "provides overview",
+      "components change",
+      "june",
+      "the estimates",
+      "overview"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "7b32b47d-0219-4e30-b9f0-8ecb4fa70693",
+    "title": "Air quality exposure data broken down by parliamentary constituency",
+    "keywords": [
+      "limit no2",
+      "average",
+      "data london",
+      "ug m3",
+      "emissions inventory",
+      "concentration",
+      "constituency",
+      "legal"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "cd15b07e-7e95-4e29-99c7-1123aa412a91",
+    "title": "Schools and educational institutions air quality exposure data broken down by parliamentary constituency",
+    "keywords": [
+      "dataset schools",
+      "educational",
+      "schools",
+      "legal limit",
+      "exposure data",
+      "no2 average",
+      "atmospheric emissions",
+      "concentration"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "f5619c5e-56f2-4c8a-9308-948b8802afda",
+    "title": "Analysing Air Pollution Exposure in London",
+    "keywords": [
+      "indicators age",
+      "london updated",
+      "areas average",
+      "pollution exposure",
+      "inequalities accessing",
+      "gradient",
+      "average",
+      "exposure"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "62b66121-d153-4b86-9da3-aed820015338",
+    "title": "Annual London Education Report 2017 Data",
+    "keywords": [
+      "education report",
+      "london education",
+      "mayor annual",
+      "raw data",
+      "document collection",
+      "document",
+      "datum",
+      "a collection"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "41e1b55d-714a-4cf6-99dc-0a4b2b9e715e",
+    "title": "Birth trends in London",
+    "keywords": [
+      "births potential",
+      "patterns births",
+      "data london",
+      "trends number",
+      "demand school",
+      "intelligence unit",
+      "number patterns",
+      "potential"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "1b191c37-0eb1-4d76-a69b-cf95449cbde4",
+    "title": "Estimating births using GP registration data",
+    "keywords": [
+      "estimates births",
+      "live births",
+      "recent-births",
+      "births",
+      "update february",
+      "gp registration",
+      "uk dataset",
+      "accuracy results"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "9c93572b-4c62-4666-9f62-607365144943",
+    "title": "EU Referendum Results",
+    "keywords": [
+      "union leave",
+      "eu referendum",
+      "leave dataset",
+      "kingdom remain",
+      "2016 residents",
+      "blog",
+      "june 23rd",
+      "member"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "3c035a0f-f723-4e3e-a208-f038bcbd8b6b",
+    "title": "London Assembly Constituency Profiles 2016",
+    "keywords": [
+      "related data",
+      "maps charts",
+      "change mayoral",
+      "london assembly",
+      "constituency profiles",
+      "greater london",
+      "related",
+      "spreadsheet"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "26865254-6aeb-4f7a-a29b-8c0ca064824b",
+    "title": "London Elections Results 2016, Wards, Boroughs, Constituency",
+    "keywords": [
+      "maps charts",
+      "results results",
+      "london elections",
+      "info",
+      "chart",
+      "boroughs",
+      "boundary",
+      "elections"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "046835f2-2b23-40cb-a537-5698433c5535",
+    "title": "Skills for London's economy",
+    "keywords": [
+      "education sector",
+      "skills londons",
+      "london economy",
+      "economy means",
+      "regions working",
+      "worker",
+      "broad",
+      "the needs"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "221a539e-14ab-4044-a42d-79fb5b7268c1",
+    "title": "Air quality summary statistics",
+    "keywords": [
+      "species changes",
+      "pollutant data",
+      "londonair api",
+      "annual objectives",
+      "monitoring sites",
+      "outlook",
+      "the last decade",
+      "sites"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "5ffa1a1a-fadb-489b-b392-cd85a26954a1",
+    "title": "OFCOM Fixed Broadband Speeds",
+    "keywords": [
+      "download speed",
+      "radio internet",
+      "uk market",
+      "gla connectivity",
+      "infrastructure ofcom",
+      "network",
+      "http",
+      "summary"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "5f3d4794-7873-49a8-87b7-be546a175c73",
+    "title": "Births by parents' country of birth, 2014",
+    "keywords": [
+      "tool](/births",
+      "births",
+      "birth calendar",
+      "ons released",
+      "trends period",
+      "mothers region",
+      "2014 visualisation",
+      "tableau"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "04a4aefa-9bd6-405d-acf0-ab191fe7d7ae",
+    "title": "MyLondon",
+    "keywords": [
+      "london mylondon",
+      "tool help",
+      "data important",
+      "define",
+      "moving house",
+      "interest",
+      "range",
+      "range data"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "1152e342-7110-4122-9df7-4dc06b34748d",
+    "title": "Better Health for London: One Year On",
+    "keywords": [
+      "health london",
+      "better health",
+      "london's health",
+      "healthy",
+      "london steps",
+      "latest data",
+      "steps developed",
+      "business better"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "81383a5e-0d61-4332-b5f2-4c4370631f7a",
+    "title": "Elected Representatives, London",
+    "keywords": [
+      "appear excel",
+      "dataset elected",
+      "ward councillors",
+      "geography represent",
+      "representatives london",
+      "there a number",
+      "elected",
+      "user"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "5fbda6f4-06a9-4b50-99e6-ef6507018c2e",
+    "title": "Understanding Health Impacts of Air Pollution in London",
+    "keywords": [
+      "health impacts",
+      "pm2 deaths",
+      "borough tables",
+      "dioxide no2",
+      "pollution london",
+      "the same time",
+      "concentration",
+      "the deaths"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "0571b384-5dd2-4bfd-8821-d27f75a90fee",
+    "title": "Local Authority By-Election Results",
+    "keywords": [
+      "ward borough",
+      "fields date",
+      "summary local",
+      "election results",
+      "councillor number",
+      "updated",
+      "winner",
+      "party"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "07d838b7-8a07-4b8c-918d-d2d86e5242ab",
+    "title": "Climate Change Mitigation and Energy Annual Report data 2013-14",
+    "keywords": [
+      "levels co2",
+      "energy annual",
+      "mayoral programmes",
+      "emissions reductions",
+      "reduction",
+      "programmes",
+      "mayoral",
+      "development"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "3e7a286c-593a-4bf7-8a99-ecf6b147b4de",
+    "title": "London's exports estimates (2015)",
+    "keywords": [
+      "hmrc goods",
+      "exports gla",
+      "gva workforce",
+      "estimates london",
+      "economics modelling",
+      "customs",
+      "job london",
+      "exports"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "ff325c6e-1361-4dfe-bc70-a07b35ee12f8",
+    "title": "ONS 2014 mid-year population estimates: London analysis",
+    "keywords": [
+      "gla population",
+      "population projections",
+      "population",
+      "analyses ons",
+      "change",
+      "focussing london",
+      "projection",
+      "this update"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "5c273496-017b-4056-b862-b255da7e0d9a",
+    "title": "Resources of Global City Comparison Indicators",
+    "keywords": [
+      "eu eurostat",
+      "urban_world knight",
+      "economistinsights com",
+      "comparing london",
+      "sustainable cities",
+      "criminal",
+      "oecd",
+      "study"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "c2407409-4752-45c7-8ba9-491eade210a2",
+    "title": "GLA Key Performance Indicators",
+    "keywords": [
+      "traffic light",
+      "gla kpis",
+      "targets forecasts",
+      "mayoral priorities",
+      "assessing performance",
+      "absence",
+      "rough",
+      "public realm"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "42169fc5-6ab5-4b75-aa55-127146395b8f",
+    "title": "GVA per workforce job in London and the UK",
+    "keywords": [
+      "sic07 london",
+      "gva workforce",
+      "gla economics",
+      "regional data",
+      "economics calculations",
+      "sector provided",
+      "the activities",
+      "sic07"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "a31c00ba-2ada-4175-bbc1-f08aef1effe2",
+    "title": "Population Change 1939-2015",
+    "keywords": [
+      "london population",
+      "population surpassed",
+      "population",
+      "people dataset",
+      "previous peak",
+      "showing borough",
+      "the period",
+      "brief"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "02731743-2727-4b69-9a43-5d69ad2b8a0a",
+    "title": "Global City Population Estimates",
+    "keywords": [
+      "population urban",
+      "population",
+      "estimates land",
+      "worldua pdf",
+      "agglomerations range",
+      "world urbanization",
+      "cities",
+      "urban"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "ce481fad-66dd-4e43-a8e8-db5a05d8f220",
+    "title": "Postcodes not on the gas network",
+    "keywords": [
+      "non domestic",
+      "britain data",
+      "gas connection",
+      "spreadsheet contains",
+      "postcodes xoserve",
+      "spreadsheet",
+      "large",
+      "http"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "f110a22f-7849-4ce3-960e-b224cc82deb8",
+    "title": "London Assembly Research",
+    "keywords": [
+      "survey young",
+      "tns survey",
+      "31 october",
+      "697 young adults",
+      "londoners aged",
+      "internship research",
+      "talk london",
+      "aged"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "cbd98dbc-ba12-43d4-a442-1c5be61bade6",
+    "title": "Borough Council Election Results 2014",
+    "keywords": [
+      "html ward",
+      "summary results",
+      "hard copies",
+      "elections london",
+      "election statistics",
+      "party",
+      "votes",
+      "http"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "764b84e5-9678-43d5-b285-dcbe6edafba8",
+    "title": "London Business Survey 2014 - Business Profile",
+    "keywords": [
+      "enterprise size",
+      "interpreting survey",
+      "confidence intervals",
+      "london businesses",
+      "provided",
+      "survey",
+      "business",
+      "confidence"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "8aed292d-deab-4df5-a8b1-09502a6996a7",
+    "title": "London Business Survey 2014 - London as a place to do business",
+    "keywords": [
+      "workspace cost",
+      "interpreting survey",
+      "location factors",
+      "businesses london",
+      "it/connectivity",
+      "survey",
+      "business",
+      "confidence"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "3a61337d-5081-483a-85b8-d51a5c07d01f",
+    "title": "London Business Survey 2014 - The workforce",
+    "keywords": [
+      "survey london",
+      "interpretation lbs",
+      "statistics number",
+      "employees recruitment",
+      "business register",
+      "survey",
+      "business",
+      "confidence"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "3536839c-c521-4a4b-8bcf-0c4bae5a416b",
+    "title": "London Business Survey 2014 - Business performance and outlook",
+    "keywords": [
+      "enterprise size",
+      "interpreting survey",
+      "confidence intervals",
+      "london businesses",
+      "survey",
+      "finding",
+      "business",
+      "confidence"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "f537f4a6-5e9e-4312-8ba6-65dad0d28c03",
+    "title": "London Business Survey 2014 - International trade",
+    "keywords": [
+      "business survey",
+      "interpretation lbs",
+      "purchases london",
+      "findings estimates",
+      "importing behaviour",
+      "survey",
+      "business",
+      "confidence"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "705cd2e4-54f3-48fd-bdea-2d0b8cc1a3ea",
+    "title": "London Business Survey 2014 - Business support for SMEs",
+    "keywords": [
+      "enterprise size",
+      "interpreting survey",
+      "confidence intervals",
+      "london businesses",
+      "provided",
+      "survey",
+      "business",
+      "confidence"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "6aae1748-744b-4469-9739-8e42b22f48c4",
+    "title": "London Business Survey 2014 - Access to finance",
+    "keywords": [
+      "enterprise size",
+      "interpreting survey",
+      "confidence intervals",
+      "london businesses",
+      "provided",
+      "survey",
+      "business",
+      "confidence"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "2aa175e4-6553-4190-8b2a-bcc9398a1f38",
+    "title": "London Business Survey 2014 - Innovation",
+    "keywords": [
+      "survey london",
+      "limits 95",
+      "interpretation lbs",
+      "businesses innovation",
+      "findings estimates",
+      "finding",
+      "survey",
+      "confidence"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "ae9c9792-6c6d-4559-a870-ef7f34444e14",
+    "title": "London Business Survey 2014 - Skills and training",
+    "keywords": [
+      "training apprenticeships",
+      "employees number",
+      "interpreting survey",
+      "london businesses",
+      "receipt",
+      "survey",
+      "business",
+      "confidence"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "c035528b-2c84-4509-8695-a212abc6ae37",
+    "title": "LSOA Atlas",
+    "keywords": [
+      "atlas provides",
+      "dataset msoa",
+      "lsoa london",
+      "areas combining",
+      "census data",
+      "ealing",
+      "disability",
+      "the top"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "6161e701-733a-4700-ba9f-e3d5e58793d3",
+    "title": "Global City Data",
+    "keywords": [
+      "city population",
+      "mortality deaths",
+      "education",
+      "population",
+      "tourism revenue",
+      "nyc gov",
+      "indicators",
+      "high"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "02acb78a-c710-4472-a17f-ce884d89b790",
+    "title": "Census Dashboards",
+    "keywords": [
+      "including range",
+      "comparitors",
+      "ward dashboards",
+      "lsoa",
+      "census variables",
+      "range",
+      "comparitor",
+      "variable"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "7920f929-57c9-4ccb-9084-87ea72bdcc26",
+    "title": "Annual percentage change in passengers",
+    "keywords": [
+      "tableausoftware",
+      "change",
+      "annual percentage",
+      "underground buses",
+      "dashboard1 1_rss",
+      "passenger",
+      "percentage",
+      "passengers"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "86a924fe-94fd-476d-ac40-fce83cb4a140",
+    "title": "London Business Demography Report",
+    "keywords": [
+      "business demography",
+      "research london",
+      "growth plan",
+      "dem chart",
+      "datastore spread",
+      "development",
+      "default",
+      "chart"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "b1aa5d9b-57de-447f-af5a-56ff9fe706d3",
+    "title": "Focus on London - Health",
+    "keywords": [
+      "health london",
+      "rates children",
+      "health",
+      "children",
+      "obesity figures",
+      "child wellbeing",
+      "areas inequality",
+      "scorecard.pdf"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "85408eaa-442e-489e-a5f1-49e76ff10a54",
+    "title": "Focus on London - Housing",
+    "keywords": [
+      "london housing",
+      "housing",
+      "housing trends",
+      "affordability",
+      "james gleeson",
+      "supply recession",
+      "levels overcrowding",
+      "the bottom"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "40abf9e2-cc6c-4cfc-933c-ee074a65bae2",
+    "title": "Focus on London - Population and Migration",
+    "keywords": [
+      "dataset births",
+      "demography national",
+      "migration report",
+      "londons population",
+      "skills, health",
+      "population",
+      "population age structure",
+      "rates borough"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "20e13960-2716-4a10-99ee-d3c91c02d4b0",
+    "title": "London Parliamentary Constituency Profiles 2010",
+    "keywords": [
+      "population area",
+      "report maps",
+      "london wards",
+      "constituency data",
+      "profiles available",
+      "expectancy",
+      "each area",
+      "the profiles"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "9140bd27-0838-4ae2-a137-c923cd0e2eec",
+    "title": "Summary of Employment Projections, London",
+    "keywords": [
+      "employment projections",
+      "employed hm",
+      "organisations cambridge",
+      "date publication",
+      "projection",
+      "+ government",
+      "experian",
+      "respected"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "0783495e-6d93-4f23-b557-74a5471b8781",
+    "title": "London Assembly Constituency Profiles 2012",
+    "keywords": [
+      "area ranks",
+      "bar chart",
+      "london average",
+      "constituency profiles",
+      "instantatlas report",
+      "greater london",
+      "related",
+      "spreadsheet"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "fe128bf6-2c4d-43a0-b8e0-dfcd031f036c",
+    "title": "London Debt Advice Clients",
+    "keywords": [
+      "debt london",
+      "homeless age",
+      "ethnicity clients",
+      "advice statistics",
+      "dataset combines",
+      "categories",
+      "clients",
+      "unknown"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "f6e66ed1-bb4c-48a3-b389-1303ae79e9fb",
+    "title": "The Wealth Gap In London",
+    "keywords": [
+      "housing costs",
+      "population london",
+      "wealth gap",
+      "average income",
+      "gla intelligence",
+      "update-02",
+      "high",
+      "brief"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "eeba60d3-f804-4eac-b8bd-53dec1003999",
+    "title": "Comparison of estimates of 0-18 year olds",
+    "keywords": [
+      "population",
+      "young people",
+      "data charts",
+      "census estimates",
+      "gla intelligence",
+      "londondatastore upload",
+      "https s3",
+      "eu west"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "68e113f6-4e48-4048-a5ff-8828693ff46a",
+    "title": "Mini-Jobs in the London Labour Market",
+    "keywords": [
+      "population survey",
+      "tables xls",
+      "londondatastore",
+      "jobs report",
+      "examine mini",
+      "the thumbnail",
+      "the report",
+      "characteristic"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "c57ce042-3fed-43fc-858f-1746a99e2606",
+    "title": "Alternative Olympics 2012 Medal Table",
+    "keywords": [
+      "nation population",
+      "population",
+      "size talent",
+      "macros excel",
+      "medal standings",
+      "table china",
+      "olympic games",
+      "the context"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "3332c8e9-60da-4ec6-8364-fee1eb2ecef6",
+    "title": "London Fuel Poverty Risk Indicators, Wards",
+    "keywords": [
+      "risk indicators",
+      "london ward",
+      "fuel poverty",
+      "help organisations",
+      "significance isolating",
+      "heating",
+      "insulation",
+      "lofts"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "d3c48940-1114-40bc-ae1f-0b5bb7682c38",
+    "title": "Improvements in Estimating Migration",
+    "keywords": [
+      "population 2006",
+      "migration estimates",
+      "migration",
+      "population",
+      "london boroughs",
+      "number immigrants",
+      "estimates england",
+      "part"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "dd7fb95c-a26e-49be-80da-6c9d5eb8c75f",
+    "title": "Unemployment in London 2012",
+    "keywords": [
+      "unemployment measure",
+      "unemployment",
+      "jsa known",
+      "uk recession",
+      "figures claiming",
+      "organisation ilo",
+      "official",
+      "decrease"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "b7b60c49-4e08-4bad-8c69-ca4bf7bc7b29",
+    "title": "Climate Change Mitigation and Energy Strategy Model Data",
+    "keywords": [
+      "mayor climate",
+      "co2 emissions",
+      "london energy",
+      "change mitigation",
+      "a combination",
+      "package",
+      "spreadsheet",
+      "combination"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "bcb8f659-b96d-4108-ae26-34121dcbb488",
+    "title": "Travel Patterns and Trends, London",
+    "keywords": [
+      "borough transport",
+      "transport",
+      "airports data",
+      "tfl network",
+      "visualisations charts",
+      "proportion casualties",
+      "uk flights",
+      "volume"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "d988ad6a-7a13-418d-8e44-94a2ce5c6da2",
+    "title": "Public Toilets",
+    "keywords": [
+      "borough grid",
+      "toilets london",
+      "available pdf",
+      "data format",
+      "standard open",
+      "https s3",
+      "package",
+      "blog"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "85724d08-c755-4737-8bc4-d5a00d05bd87",
+    "title": "Alternative Vote referendum results, Borough",
+    "keywords": [
+      "population",
+      "uk uses",
+      "results borough",
+      "analysed dmag",
+      "av referendum",
+      "alternative vote",
+      "(av) referendum",
+      "the result"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "f3d826c0-b707-4cd4-becc-60db7f2d3475",
+    "title": "Street Trees, Borough",
+    "keywords": [
+      "street trees",
+      "trees",
+      "trees borough",
+      "future london",
+      "-london%e2%80%99s-street-trees",
+      "london's street trees",
+      "borough data",
+      "xls showing"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "4490acc8-4d3a-429f-aab5-64c8af167781",
+    "title": "London Empty Homes Audit",
+    "keywords": [
+      "london vacant",
+      "sector homes",
+      "priority rating",
+      "properties audit",
+      "high",
+      "factors",
+      "development",
+      "vacant"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "cd90a1c9-6dcc-45cc-a2ea-3291e4f68873",
+    "title": "London Elections Results, 2000",
+    "keywords": [
+      "gla elections",
+      "2000 including",
+      "assembly list",
+      "borough data",
+      "constituencies comparisons",
+      "elections",
+      "contains data",
+      "borough"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "9c111b77-13eb-4257-908d-aef103615078",
+    "title": "London Elections Results 2012, Wards, Boroughs, Constituency",
+    "keywords": [
+      "summary london",
+      "election data",
+      "atlas html",
+      "results mayoral",
+      "boroughs constituencies",
+      "winner",
+      "party",
+      "the candidate"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "51589c30-9151-43fb-a269-827363ac3c7f",
+    "title": "Estimated Number of Londoners with Reduced Mobility",
+    "keywords": [
+      "gla population",
+      "accessibility transport",
+      "transport",
+      "tfl data",
+      "london report",
+      "proportion people",
+      "details",
+      "disability"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "16053893-57cd-4051-92f2-57283229c491",
+    "title": "Allotment Locations",
+    "keywords": [
+      "london data",
+      "gla gis",
+      "checking duplicates",
+      "assembly publications",
+      "allotments process",
+      "indicative",
+      "paper records",
+      "location"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "a07fd5fc-88d6-4a0e-940b-03f0743e569b",
+    "title": "2010-2013 GLA budget detail",
+    "keywords": [
+      "gla budget",
+      "breakdown directorate",
+      "budget breakdown",
+      "budget",
+      "directorate",
+      "breakdown"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "4f9c9ba0-f531-47dc-b0d0-c6331c3b0655",
+    "title": "Borough Council Election Results 2010",
+    "keywords": [
+      "results london",
+      "council general",
+      "report data",
+      "ward maps",
+      "borough elections",
+      "transparency",
+      "party",
+      "votes"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "30621c14-6419-4bcc-8ec4-cbde5317a26a",
+    "title": "General Election Results 2010",
+    "keywords": [
+      "dataset london",
+      "atlas html",
+      "presents election",
+      "2010electionatlas png",
+      "greater london",
+      "related",
+      "boundary",
+      "change"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "d427d812-0915-4782-814f-65b656f75171",
+    "title": "Polling Stations in London for 2010 Local & General Elections",
+    "keywords": [
+      "33 local",
+      "gis ordinates",
+      "dataset currently",
+      "polling stations",
+      "authorities london",
+      "polling",
+      "each station",
+      "details"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "fde1d317-b08f-46e4-af57-a1a955aede13",
+    "title": "Council Elections candidate results by ward, 2006",
+    "keywords": [
+      "london borough",
+      "results ward",
+      "turnout accessed",
+      "elections statistics",
+      "this election",
+      "https s3",
+      "eu west",
+      "spreadsheet"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "f55b9dd6-6e0b-42f1-a866-1d4a28a8bad6",
+    "title": "GLA Establishment List",
+    "keywords": [
+      "posts gla",
+      "september 2010",
+      "dataset available",
+      "com londondatastore",
+      "establishment list",
+      "department",
+      "https s3",
+      "this dataset"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "3adb73c8-9c09-40b8-a315-090ad3861a5c",
+    "title": "GLA Staff Turnover 2009",
+    "keywords": [
+      "employment data",
+      "employees post",
+      "statistics year",
+      "gla workforce",
+      "leavers turnover",
+      "datum",
+      "digest",
+      "leavers"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "40022121-8954-4266-9317-1324a1da1bef",
+    "title": "Assembly Member Gifts and Hospitality Register",
+    "keywords": [
+      "conduct member",
+      "register gift",
+      "mayor register",
+      "london assembly",
+      "hospitality worth",
+      "official",
+      "duty",
+      "gift"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "3d9f79d6-f2d8-4f42-910e-a9564382c8b8",
+    "title": "Council Elections Voters 2002",
+    "keywords": [
+      "voters able",
+      "elections 2002",
+      "vote report",
+      "borough council",
+      "londondatastore upload",
+      "voters",
+      "voter",
+      "the report"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "70c8dfd5-ce85-4441-8991-2fc7fb2331c9",
+    "title": "Council Elections Voters 2006",
+    "keywords": [
+      "clerical error",
+      "rejected ballot",
+      "voters ward",
+      "upload london",
+      "voters",
+      "this election",
+      "https s3",
+      "polling"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "63b7b03c-b68b-4028-9256-6c6c196a0f75",
+    "title": "European Election Results 2004",
+    "keywords": [
+      "results reported",
+      "london elections",
+      "londondatastore upload",
+      "https s3",
+      "eu west",
+      "mayoral",
+      "west",
+      "upload"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "56a19d46-318e-4cf7-8176-f9f73b3aff55",
+    "title": "European Election Results 2009",
+    "keywords": [
+      "election 2009",
+      "com images",
+      "results report",
+      "european elections",
+      "the report",
+      "european",
+      "upload",
+      "wide"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "350b7991-ebdd-4cbe-bbfa-436f8eab06a9",
+    "title": "London Elections Results 2004, Borough",
+    "keywords": [
+      "mayor second",
+      "list gla",
+      "london elections",
+      "https s3",
+      "party",
+      "london member",
+      "member",
+      "london mayor"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "7d78ba14-429b-4b99-b893-e5a8dd409fb1",
+    "title": "London Elections Results 2008, Borough",
+    "keywords": [
+      "gla mayoral",
+      "borough level",
+      "ward turnout",
+      "london elections",
+      "polling",
+      "party",
+      "london member",
+      "london mayor"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "7fd0255b-8f43-42be-9927-fe84a2a2b040",
+    "title": "Areas for Intensification Points (London Plan Consultation 2009)",
+    "keywords": [
+      "london plan",
+      "development sites",
+      "consultation 2009",
+      "increases residential",
+      "areas identified",
+      "other uses",
+      "potential",
+      "high"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "ee42ced5-702d-4364-afb2-6f0c13b91c00",
+    "title": "Central Activities Zone Boundary (London Plan Consultation 2009)",
+    "keywords": [
+      "use caz",
+      "activities zone",
+      "london plan",
+      "residential local",
+      "importance strategic",
+      "plan",
+      "planning policy",
+      "boundary"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "ce1cdf77-f1b3-4a23-80b0-46a5de516488",
+    "title": "Inner and Outer London Boundaries (London Plan Consultation 2009)",
+    "keywords": [
+      "outer london",
+      "inner",
+      "plan consultation",
+      "represented polygons",
+      "borough boundaries",
+      "two polygons",
+      "plan",
+      "versions"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "3dd293b4-a83e-4b0d-a322-1c830870dc48",
+    "title": "Sub-regions (London Plan Consultation 2009)",
+    "keywords": [
+      "sub regions",
+      "london plan",
+      "north barnet",
+      "borough boundaries",
+      "ealing",
+      "plan",
+      "central",
+      "boundary"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "82c35f4b-afe7-4d97-8ace-698c406a4dd3",
+    "title": "Areas for Intensification Points (London Plan Consolidated with Alterations since 2004)",
+    "keywords": [
+      "employment uses",
+      "london plan",
+      "alterations 2004",
+      "increases residential",
+      "areas identified",
+      "other uses",
+      "potential",
+      "high"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "9f7a8eee-4878-4cae-91f0-17374f0af1af",
+    "title": "Inner and Outer London Boundaries (London Plan Consolidated with Alterations since 2004)",
+    "keywords": [
+      "outer london",
+      "versions inner",
+      "inner outer",
+      "represented polygons",
+      "borough boundaries",
+      "two polygons",
+      "plan",
+      "alterations"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "b062aa80-497d-4fa0-bda5-d46c906d3593",
+    "title": "Opportunity Area Points (London Plan Consolidated with Alterations since 2004)",
+    "keywords": [
+      "planning london",
+      "jobs",
+      "area represented",
+      "consolidated alterations",
+      "plan",
+      "home",
+      "development",
+      "large"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "16bd9ba0-e1fb-4fbf-aba3-03bf8b38614e",
+    "title": "Strategic Industrial Location Points (London Plan Consolidated with Alterations since 2004)",
+    "keywords": [
+      "business parks",
+      "transport sectors",
+      "industrial warehousing",
+      "london plan",
+      "locations sils",
+      "represented",
+      "the needs",
+      "general"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "d675b14e-fe46-4459-b42f-2d6a7989fce0",
+    "title": "Mayor's Decisions",
+    "keywords": [
+      "gla website",
+      "london gov",
+      "standards transparency",
+      "initiatives expenditure",
+      "mayoral decisions",
+      "the gla website",
+      "high",
+      "link"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "9a5fcd91-fbf5-4d41-afd3-cc25b981ac64",
+    "title": "GLA Young Londoners' Survey 2009",
+    "keywords": [
+      "mayoral policy",
+      "csv data",
+      "gla young",
+      "londoners survey",
+      "involvement data",
+      "the excel limit",
+      "mayoral",
+      "limit"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "1c140268-e42a-4c00-8707-3fcabe0786c9",
+    "title": "Central Activities Zone Boundary (London Plan Consolidated with Alterations since 2004)",
+    "keywords": [
+      "use central",
+      "activities zone",
+      "london plan",
+      "caz",
+      "consolidated alterations",
+      "plan",
+      "planning policy",
+      "\\[click"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "61cdb5eb-4d46-479f-bf15-f3e0c31887f4",
+    "title": "Strategic Industrial Location Points (London Plan Consultation 2009)",
+    "keywords": [
+      "business parks",
+      "markets transport",
+      "pils industrial",
+      "planning london",
+      "locations sils",
+      "related",
+      "represented",
+      "the needs"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "d6b490a0-4742-4dea-a661-f2a03dc0837b",
+    "title": "Estimation of Health Impacts of Particulate Pollution in London",
+    "keywords": [
+      "air quality",
+      "populations population",
+      "populations",
+      "population",
+      "ward estimated",
+      "2008 population rates",
+      "clearing london",
+      "attributable deaths"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "43ae680d-12fe-4d23-a253-3bcb2cccfd07",
+    "title": "MSOA Atlas",
+    "keywords": [
+      "area population",
+      "range data",
+      "msoa london",
+      "profiles atlas",
+      "neighbourhood statistics",
+      "ealing",
+      "the top",
+      "msoa"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "689546ab-5537-4611-9001-63dfc029b346",
+    "title": "ONS 2011-based Subnational Population Projections",
+    "keywords": [
+      "population projections",
+      "population",
+      "report gla",
+      "2011snpp data",
+      "s3 eu",
+      "london boroughs",
+      "this projection",
+      "sub national"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "5bb99219-4a34-40d5-bc3a-41d8fa5dc2f8",
+    "title": "Climate Change Mitigation and Energy Annual Report 2009-2012 Data",
+    "keywords": [
+      "levels co2",
+      "energy annual",
+      "emissions reductions",
+      "mayoral programmes",
+      "greater london",
+      "intended data",
+      "intended",
+      "mayoral"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "4c1d9dd6-ce5f-444f-b35f-446ba456ee0f",
+    "title": "2013 London Town Centre Health Check Analysis Report",
+    "keywords": [
+      "health check",
+      "gla publication",
+      "borough data",
+      "uk priorities",
+      "town centres",
+      "goad",
+      "accident",
+      "care"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "f33fb38c-cb37-48e3-8298-84c0d3cc5a6c",
+    "title": "Ward Profiles and Atlas",
+    "keywords": [
+      "housing benefit",
+      "overview population",
+      "ward profiles",
+      "atlases data",
+      "london comparison",
+      "ealing",
+      "absence",
+      "the top"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "413aecc8-ec57-410d-b9ed-240a4f988017",
+    "title": "Fertility in London, 2001 and 2011",
+    "keywords": [
+      "population projections",
+      "download demography",
+      "population",
+      "the demography team",
+      "london data",
+      "2014 fertility",
+      "gla demographic",
+      "range"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "2356ff4d-521f-45fc-b806-f1eaa65ec244",
+    "title": "London Brownfield Sites Review",
+    "keywords": [
+      "nlud assessment",
+      "mapping site",
+      "london database",
+      "land use",
+      "boundaries brownfield",
+      "project",
+      "the files",
+      "sites"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "139e5617-dd36-4686-993b-f1b97291e77f",
+    "title": "Solid wall and off gas network properties, (LSOA)",
+    "keywords": [
+      "htt homes",
+      "fuel poverty",
+      "england spreadsheet",
+      "properties solid",
+      "quantifying rural",
+      "spreadsheet",
+      "solid",
+      "rural"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "b36d2254-28e8-457d-8247-c086b192f135",
+    "title": "European Quality of Life Survey",
+    "keywords": [
+      "london rest",
+      "eqls examines",
+      "quality life",
+      "countries survey",
+      "european citizens",
+      "survey.xls",
+      "balance",
+      "people's levels"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "1d543958-009e-4ec5-920e-89a039d136c7",
+    "title": "Better Environment, Better Health - Guides for London Boroughs",
+    "keywords": [
+      "borough health",
+      "better health",
+      "environment help",
+      "healthy food",
+      "health watch",
+      "better health guide",
+      "guide london",
+      "the better environment"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "e8309973-37fd-4905-8f21-5f316b4542ff",
+    "title": "State of the Environment report for London",
+    "keywords": [
+      "london environment",
+      "environment themes",
+      "environment",
+      "biodiversity",
+      "climate change",
+      "forestry commission",
+      "update indicators",
+      "the indicators"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "1257c3e2-09d5-423d-90fa-35ea3134303a",
+    "title": "London Assembly Cycle Survey Responses",
+    "keywords": [
+      "data csv",
+      "results public",
+      "bike survey",
+      "users anonymised",
+      "londondatastore upload",
+      "the survey",
+      "https s3",
+      "user"
+    ],
+    "topics": [
+      "data"
+    ],
+    "description": ""
+  },
+  {
+    "id": "1aafc0bb-0343-4c46-bf26-d4a10266e3b0",
+    "title": "Mayor's Education Inquiry",
+    "keywords": [
+      "education",
+      "education inquiry",
+      "london gov",
+      "teaching mayors",
+      "link datasheet",
+      "edu_inq_data",
+      "inquiry findings",
+      "final"
+    ],
+    "topics": [
+      "population"
+    ],
+    "description": ""
+  },
+  {
+    "id": "087c1ac4-d557-4fb9-96af-9fa48ec562e1",
+    "title": "Tourism Trips, Borough",
+    "keywords": [
+      "scale day",
+      "london data",
+      "tourism borough",
+      "visitor estimates",
+      "disaggregate expenditure",
+      "nature",
+      "night",
+      "the scale"
+    ],
+    "topics": [
+      "general"
+    ],
+    "description": ""
+  }
+]
