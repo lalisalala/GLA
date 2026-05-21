@@ -24,6 +24,7 @@ git clone https://github.com/lalisalala/GLA.git
 cd GLA
 code .
 python -m venv .venv
+```
 ## Results
 
 The main results below correspond to the paper:
